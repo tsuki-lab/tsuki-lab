@@ -16,6 +16,11 @@ Hi, I'm an illustrator and JavaScript engineer. The pen name is "Touka Hanetsuki
 #### ⚡️ Status
 [![Top used Langs](https://github-readme-stats.vercel.app/api?username=tsuki-lab&show_icons=true&locale=en)](https://github.com/tsuki-lab/)
 
+***
+
+#### 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=tsuki-lab&theme=nord&column=7&margin-w=15)](https://github.com/tsuki-lab/)
+
 <!--
 **tsuki-lab/tsuki-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
