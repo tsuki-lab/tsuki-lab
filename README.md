@@ -13,7 +13,7 @@ Hi, I'm an illustrator and JavaScript engineer. The pen name is "Touka Hanetsuki
 
 ***
 
-#### ⚡️ Status
+#### ⚡️ Stats
 [![Top used Langs](https://github-readme-stats.vercel.app/api?username=tsuki-lab&show_icons=true&locale=en)](https://github.com/tsuki-lab/)
 
 ***
