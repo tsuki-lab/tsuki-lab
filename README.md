@@ -9,7 +9,7 @@ Hi, I'm an illustrator and JavaScript engineer. The pen name is "Touka Hanetsuki
 ***
 
 #### 📫 Contact me.
-**[Twitter - [@hanetsuki_dev](https://twitter.com/hanetsuki_dev)]**
+- Twitter - **[@hanetsuki_dev](https://twitter.com/hanetsuki_dev)**
 
 ***
 
