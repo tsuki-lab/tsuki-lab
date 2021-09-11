@@ -1,5 +1,5 @@
 ### 🌕 About hanetsuki
-Hi, I'm an illustrator and JavaScript engineer. The pen name is "Touka Hanetsuki" Follow me 🤝
+Hi, I'm an illustrator and JavaScript engineer. 🤝
 
 <br>
 
