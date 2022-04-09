@@ -4,7 +4,7 @@ Hi, I'm an illustrator and JavaScript engineer. 🤝
 <br>
 
 - 🌱 I’m currently learning **Next.js**, **React**, **Node.js**
-- 🙌 I’m looking for help with [grow-files](https://github.com/tsuki-lab/grow-files) and [gatsby-plugin-linaria-typescript](https://github.com/tsuki-lab/gatsby-plugin-linaria-typescript)
+- 🙌 I’m looking for help with [grow-files](https://github.com/tsuki-lab/grow-files) and [microcms-filter-query](https://github.com/tsuki-lab/microcms-filter-query)
 
 ***
 
