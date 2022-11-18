@@ -1,11 +1,11 @@
-### 🌕 About hanetsuki
+## 🌕 About hanetsuki
 Hi, I'm an illustrator and JavaScript engineer. 🤝
 
-#### 🌱 my skills
+### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,react,nextjs,gatsbyjs,vue,astro,sass,tailwind,vite,webpack,supabase,firebase,vercel,netlify,aws,git,github,githubactions,figma" />
 
 
-### 📈 Status
+## 📈 Status
 [![Followers](https://badgen.org/img/zenn/rabbit/followers?style=flat)](https://zenn.dev/rabbit) [![My Twitter Followers](https://badgen.net/twitter/follow/hanetsuki_dev)](https://twitter.com/hanetsuki_dev)
 
 <p align="left"> 
@@ -15,7 +15,7 @@ Hi, I'm an illustrator and JavaScript engineer. 🤝
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tsuki-lab&margin-w=5)](https://github.com/tsuki-lab/)
 
-### 📨 Contact me.
+## 📨 Contact me.
 
 **[Twitter - @hanetsuki_dev](https://twitter.com/hanetsuki_dev)** | **[Portfolio Web](https://tsuki-lab.net)**
 
