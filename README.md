@@ -6,7 +6,7 @@ Hi, I'm an illustrator and JavaScript engineer. 🤝
 
 
 ## 📈 Status
-[![Followers](https://badgen.org/img/zenn/rabbit/followers?style=flat)](https://zenn.dev/rabbit) [![My Twitter Followers](https://badgen.net/twitter/follow/hanetsuki_dev)](https://twitter.com/hanetsuki_dev)
+[![Followers](https://badgen.org/img/zenn/rabbit/followers?style=flat)](https://zenn.dev/rabbit)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsuki-lab&layout=compact&show_icons=true" />
